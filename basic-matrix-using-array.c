@@ -16,8 +16,8 @@ int main() {
       scanf("%d", &mat[i][j]);
     }
   }
-
   // Printing the results
+  printf("\nEnter a Matrix of A: \n");
   for (i = 0; i < m; i++) {
     for (j = 0; j < n; j++) {
       printf("%d\t", mat[i][j]);
