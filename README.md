@@ -1,4 +1,4 @@
-# Matrix
+## Matrix Using Array
 Let A be a 𝑀 𝑋 𝑁 matrix.
 1. Write a program for computing mean, SD, Min and Max of A.
 2. Create a new matrix 𝐵 from 𝐴 such that 𝐵=(𝐴−𝑚𝑒𝑎𝑛)/𝑆𝐷
