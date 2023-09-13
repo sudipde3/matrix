@@ -1,19 +1,3 @@
-// Name: Sudip De
-// Entry No: 2023MAS7152
-// Prog_Ass-2_Name_EntryNumber: Prog_Ass-2_Sudip_2023MAS7152
-
-/*     ------       Programming Assignment-2       ------     */
-
-/*-----  
-1. Create a square matrix (ANxN) such that even rows contain odd numbers and odd rows contain even numbers. 
-    Numbers can be assigned using a formula. 
-    Note that ‘N’ should be a positive number greater than 6.
-2. Program should check if this is a symmetric matrix.
-3. Find the sum of all non-diagonal elements.
-4. Find product of A and A^T using a separate sub-function.
-    i.e. MatrixProductFunc() and call it inside main() function. 
-    Print values of this product.  ------*/
-
 #include <stdio.h>
 
 // Function to create the matrix
